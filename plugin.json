@@ -1,0 +1,12 @@
+{
+  "name": "onec-inspector",
+  "displayName": "1C Configuration Inspector",
+  "version": "2.0.0",
+  "description": "Universal inspection, audit, metadata/subsystem tree, BSL extraction, DCS (SKD) parsing, forms & roles analysis, and .1CD/.dt table reading for any 1C:Enterprise 8 file (.dt, .1CD, .cf, .cfe, .epf, .ert, .efd) via ready-made CLI scripts and MCP server.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Проведи полный аудит и покажи обзор метаданных и подсистем 1С из .dt, .1CD или .cf файла",
+    "Извлеки BSL-код модулей, форм и СКД отчетов из конфигурации 1С",
+    "Покажи непустые таблицы 1Cv8.1CD, строки табличных частей и роли/пользователей ИБ"
+  ]
+}

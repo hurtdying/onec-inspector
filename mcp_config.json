@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "onec-inspector": {
+      "command": "python",
+      "args": [
+        "${PLUGIN_ROOT}/skills/inspect-1c/scripts/onec_mcp.py"
+      ],
+      "env": {
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}
